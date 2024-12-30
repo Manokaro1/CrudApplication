@@ -1,0 +1,5 @@
+cd C:\Work-files\React-js\CrudApplication
+git init
+git remote add origin https://github.com/Manokaro1/CrudApplication.git
+
+git add .
